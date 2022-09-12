@@ -13,6 +13,6 @@ public class main {
             case "2" -> System.out.println("Salami je na cestě!");
             case "3" -> System.out.println("Napoletana je na cestě!");
         }
-
+        
     }
 }
